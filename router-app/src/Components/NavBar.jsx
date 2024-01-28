@@ -6,9 +6,9 @@ const Navbar = () => {
     return (
         <nav>
             <div>
-                <Link to="/">Kalvium 💖</Link>
+                <Link to="/">Kalvium ❤️</Link>
             </div>
-            <div id='flexx'>
+            <div id='flexbox'>
                 <div><Link to="/about">About</Link></div>
                 <div><Link to="/contacts">Contacts</Link></div>
             </div>
